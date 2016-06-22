@@ -1,4 +1,3 @@
-// Go package to manipulate the environment
 package envlib
 
 // Selects the Nameset of variables from the envlib environment
